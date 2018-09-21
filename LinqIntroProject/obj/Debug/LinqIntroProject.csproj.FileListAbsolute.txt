@@ -1,0 +1,6 @@
+C:\repos\LinqIntroSolution\LinqIntroProject\bin\Debug\LinqIntroProject.exe.config
+C:\repos\LinqIntroSolution\LinqIntroProject\bin\Debug\LinqIntroProject.exe
+C:\repos\LinqIntroSolution\LinqIntroProject\bin\Debug\LinqIntroProject.pdb
+C:\repos\LinqIntroSolution\LinqIntroProject\obj\Debug\LinqIntroProject.csprojResolveAssemblyReference.cache
+C:\repos\LinqIntroSolution\LinqIntroProject\obj\Debug\LinqIntroProject.exe
+C:\repos\LinqIntroSolution\LinqIntroProject\obj\Debug\LinqIntroProject.pdb
